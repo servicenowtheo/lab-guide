@@ -8,6 +8,8 @@
 2. Select the **Create and manage** tab at the top of the page.
 3. Select the **AI agents** tab to view the full list of AI agents in your organization.
 
+   ![AI agents tab showing the full list of AI agents in Create and manage](assets/LAB8114-K26/ex3-step1-ai-agents-list.png)
+
 ### Locate the DEX remediation trigger AI agent
 
 1. In the AI agents list, select the **Name** column header to sort the list alphabetically.
