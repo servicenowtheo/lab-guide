@@ -7,17 +7,15 @@
 1. In the filter navigator, type `Assistant Designer` and select **Conversational Interfaces > Assistant Designer**.
 2. You'll land on the Assistant Designer page showing all configured assistants as cards.
 
-   ![Assistant Designer showing Now Assist Voice Deployment and other configured assistants](assets/LAB8114-K26/ex4-step1-assistant-designer.png)
+   ![Assistant Designer showing Now Assist Voice Deployment and other configured assistants](.gitbook/assets/LAB8114-K26/ex4-step1-assistant-designer.png)
 
 ### Step 2 — Start a Voice Test Call
 
 1. Locate the **Now Assist Voice Deployment** card.
 2. Select **Edit** to open the Voice Deployment configuration, then select **Test Assistant** in the top-right corner to open the Voice test interface.
 
-   ![Now Assist Voice Deployment editor showing Overview tab, language settings, and Test Assistant button](assets/LAB8114-K26/ex4-step2-voice-editor-clean.png)
+   ![Now Assist Voice Deployment editor showing Overview tab, language settings, and Test Assistant button](.gitbook/assets/LAB8114-K26/ex4-step2-voice-editor-clean.png)
 
-3. Confirm the **Testing mode** is set to **Voice**.
-4. Select **Start call** to initiate the voice conversation.
 3. Confirm the **Testing mode** is set to **Voice**.
 4. Select **Start call** to initiate the voice conversation.
 

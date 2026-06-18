@@ -6,7 +6,7 @@
 2. From the *Assistants* pane, select **Now Assist Voice Deployment.**
 3. From the *AI Agents* pane, you will see a list of agents already assigned to the Assistant. There should be one agent **Create incident with voice AI agent** active already. We will activate an additional agent.
 
-![AI Agents pane showing assigned agents for Now Assist Voice Deployment](assets/LAB8114-K26/ex1-step3-ai-agents-pane.png)
+![AI Agents pane showing assigned agents for Now Assist Voice Deployment](.gitbook/assets/LAB8114-K26/ex1-step3-ai-agents-pane.png)
 
 4. Select the **Manage incident with voice AI agent** from the list.
 5. Navigate to the **Select channels and status** section and toggle the agent active and click **Done.**

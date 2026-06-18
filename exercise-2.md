@@ -8,7 +8,7 @@
 
    You'll land on the AI Agent Studio Overview page, where you can see ready-made AI automations and any AI workers already active in your organization.
 
-   ![AI Agent Studio Overview page showing ready-made solutions and My Solutions sections](assets/LAB8114-K26/ex2-step1-ai-agent-studio-overview.png)
+   ![AI Agent Studio Overview page showing ready-made solutions and My Solutions sections](.gitbook/assets/LAB8114-K26/ex2-step1-ai-agent-studio-overview.png)
 
 ### Open the AI L1 Service Desk Specialist for editing
 

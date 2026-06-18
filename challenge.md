@@ -16,7 +16,7 @@
    - **Select article template:** Choose **Standard**
 3. Select **Next** in the top-right corner.
 
-   ![New Knowledge article form with AI draft dialog — select "Yes, draft with Now Assist" to use AI-powered article creation](assets/LAB8114-K26/challenge-step2-kb-new-article.png)
+   ![New Knowledge article form with AI draft dialog — select "Yes, draft with Now Assist" to use AI-powered article creation](.gitbook/assets/LAB8114-K26/challenge-step2-kb-new-article.png)
 
 ### Step 3 — Write Your Knowledge Article
 
